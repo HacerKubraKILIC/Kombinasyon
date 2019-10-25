@@ -1,0 +1,6 @@
+c:\users\hacer\documents\visual studio 2015\Projects\Kombinasyon\Kombinasyon\bin\Debug\Kombinasyon.exe.config
+c:\users\hacer\documents\visual studio 2015\Projects\Kombinasyon\Kombinasyon\bin\Debug\Kombinasyon.exe
+c:\users\hacer\documents\visual studio 2015\Projects\Kombinasyon\Kombinasyon\bin\Debug\Kombinasyon.pdb
+c:\users\hacer\documents\visual studio 2015\Projects\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.csprojResolveAssemblyReference.cache
+c:\users\hacer\documents\visual studio 2015\Projects\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.exe
+c:\users\hacer\documents\visual studio 2015\Projects\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.pdb
